@@ -20,7 +20,7 @@ This guide walks you through creating and configuring **AWS Security Groups** fo
 1. On the left, under **Network & Security**, click **Security Groups**.
 2. Click **Create Security Group**.
 3. Enter:
-   - **Security Group Name**: e.g., "MyWebServerSG".
+   - **Security Group Name**: e.g., "launch-wizard-2".
    - **Description**: e.g., "Security Group for my EC2 instance".
    - **VPC**: Choose the default VPC.
 
