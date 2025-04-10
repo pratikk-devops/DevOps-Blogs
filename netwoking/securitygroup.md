@@ -55,4 +55,3 @@ This guide walks you through creating and configuring **AWS Security Groups** fo
 
 **Congrats!** You’ve successfully configured your EC2 instance’s security group. Keep exploring AWS and improving your cloud security skills! 🌐🚀
 
-#aws #ec2 #securitygroups #cloudcomputing #devops #learninginpublic #techbeginner #cloudsecurity
