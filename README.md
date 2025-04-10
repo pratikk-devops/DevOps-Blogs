@@ -1,4 +1,4 @@
 # DevOps-Guide
 
 1. Networking
-2.Linux
+2. Linux
